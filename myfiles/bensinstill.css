@@ -6,7 +6,7 @@
 	justify-items:center;
 }
 .mynd2{
-    width: 100%;
+    width: 10%;
     margin: auto;
 	display: grid;   
 	grid-template-columns: 1fr 1fr; 
@@ -30,7 +30,7 @@ td, th {
 .tafla{
     font-family: Times New Roman;
     font-size: 14pt;
-    width: 85%;
+    width: 80%;
     border-radius: 10px;
     margin: auto;
     text-align: center;
