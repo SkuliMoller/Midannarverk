@@ -67,8 +67,8 @@
             % odyrastidieselstadur = nafn["name"]
         % end
     % end
-    <p>Ódýrasta bensín: {{bensin}} kr. hjá {{odyrastabensinfyritaeki}} , {{odyrastibensinstadur}}</p>
-    <p>Ódýrasta díesel: {{diesel}} kr. hjá {{odyrastadieselfyritaeki}} , {{odyrastidieselstadur}}</p>
+    <p>Ódýrasta bensín: {{bensin}} kr. hjá {{odyrastabensinfyritaeki}}, {{odyrastibensinstadur}}</p>
+    <p>Ódýrasta díesel: {{diesel}} kr. hjá {{odyrastadieselfyritaeki}}, {{odyrastidieselstadur}}</p>
     <p>{{data["timestampPriceCheck"]}}</p>
 </body>
 </html>
