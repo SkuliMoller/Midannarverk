@@ -1,5 +1,5 @@
 .mynd{
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 .mynd2{
@@ -8,7 +8,7 @@
 }
 img{
     padding: 15px;
-    width: auto;
+    width: 50px;
 }
 td, th {
     border: 1px solid #dddddd;
@@ -42,7 +42,7 @@ td, th {
 }
 h1{
     text-align: center;
-	font-family: sans serif;
+	font-family: gabriola;
     font-size: 30pt;
 }
 h2{
