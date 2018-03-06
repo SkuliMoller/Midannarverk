@@ -1,12 +1,7 @@
-body{
-	width: 70%;
-	margin: auto;
-}
 .mynd{
 	width: 80%;
 	margin: auto;
 	display: grid;   
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
 	justify-items:center;
 }
 .mynd2{
