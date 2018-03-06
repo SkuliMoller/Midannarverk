@@ -69,6 +69,8 @@
     % end
     <p>Ódýrasta bensín: {{bensin}} kr. hjá {{odyrastabensinfyritaeki}}, {{odyrastibensinstadur}}</p>
     <p>Ódýrasta díesel: {{diesel}} kr. hjá {{odyrastadieselfyritaeki}}, {{odyrastidieselstadur}}</p>
-    <p>Síðast uppfært: {{data["timestampPriceCheck"]}}</p>
+    % listinn = data["timestampPriceCheck"]
+    % list(listinn)
+    <p>Síðast uppfært : {{listinn[8:10]}}.{{listinn[5:7]}}.{{listinn[:4]}} Kl. {{listinn[11:16]}}</p>
 </body>
 </html>
