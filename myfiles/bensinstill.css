@@ -7,6 +7,7 @@ body{
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
 	display: grid;   
 	justify-items:center;
+	background-color: white;
 }
 .mynd2{
     width: 10%;
@@ -33,12 +34,14 @@ td, th {
     border-radius: 10px;
     margin: auto;
     text-align: center;
+	background-color: white;
 }
 .company{
     border-collapse: collapse;
     font-size: 12pt;
     border-radius: 10px;
     margin: auto;
+	background-color: white;
 }
 .moreinfo{
     border-collapse: collapse;
