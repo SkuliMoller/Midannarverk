@@ -19,6 +19,7 @@ td, th {
     padding: 5px;
     display: table-cell;
     vertical-align: inherit;
+	background-color: #dddddd;
 }
 .texti{
     text-align: center;
@@ -30,6 +31,7 @@ td, th {
     border-radius: 10px;
     margin: auto;
     text-align: center;
+	background-color: #86888A;
 }
 .company{
     border-collapse: collapse;
