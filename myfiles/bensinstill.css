@@ -12,7 +12,9 @@
 	justify-items:center;
 }
 img{
-    padding: 15px;
+	width: 8%;
+	heigth: auto;
+    padding: 10px;
 }
 td, th {
     border: 1px solid #dddddd;
