@@ -1,5 +1,5 @@
 body{
-	background-image: url("peningar.jpg");
+	background-image: url("/static/peningar.jpg");
 }
 .mynd{
 	width: 80%;
