@@ -1,5 +1,5 @@
 .mynd{
-	width: 80%;
+    width: 80%;
 	margin: auto;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
 	display: grid;   
@@ -11,6 +11,7 @@
 }
 img{
 	width: 100%;
+	height: 100px;
 }
 td, th {
     border: 1px solid #dddddd;
