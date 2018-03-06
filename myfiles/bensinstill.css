@@ -1,6 +1,7 @@
 .mynd{
 	width: 80%;
 	margin: auto;
+	grid-template-columns: 2% 2% 2% 2% 2% 2% 2% 2%; 
 	display: grid;   
 	justify-items:center;
 }
@@ -11,9 +12,7 @@
 	grid-template-columns: 1fr 1fr; 
 	justify-items:center;
 }
-img.mynd{
-	width: 8%;
-	heigth: auto;
+img{
     padding: 10px;
 }
 td, th {
