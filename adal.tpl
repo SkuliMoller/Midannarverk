@@ -8,14 +8,14 @@
 <body>
     <h1>Söluaðilar eldsneytis á Íslandi</h1>
     <div class="mynd">
-        <img src="/static/{{myndir[0]['mynd']}}" alt="Mynd 1" height="100" width="100"/>
-        <img src="/static/{{myndir[1]['mynd']}}" alt="Mynd 2" height="100" width="100"/>
-        <img src="/static/{{myndir[2]['mynd']}}" alt="Mynd 3" height="100" width="100"/>
-        <img src="/static/{{myndir[3]['mynd']}}" alt="Mynd 4" height="100" width="100"/>
-        <img src="/static/{{myndir[4]['mynd']}}" alt="Mynd 5" height="100" width="100"/>
-        <img src="/static/{{myndir[5]['mynd']}}" alt="Mynd 6" height="100" width="100"/>
-        <img src="/static/{{myndir[6]['mynd']}}" alt="Mynd 7" height="100" width="100"/>
-        <img src="/static/{{myndir[7]['mynd']}}" alt="Mynd 8" height="100" width="100"/>
+        <img src="/static/{{myndir[0]['mynd']}}" alt="Mynd 1"/>
+        <img src="/static/{{myndir[1]['mynd']}}" alt="Mynd 2"/>
+        <img src="/static/{{myndir[2]['mynd']}}" alt="Mynd 3"/>
+        <img src="/static/{{myndir[3]['mynd']}}" alt="Mynd 4"/>
+        <img src="/static/{{myndir[4]['mynd']}}" alt="Mynd 5"/>
+        <img src="/static/{{myndir[5]['mynd']}}" alt="Mynd 6"/>
+        <img src="/static/{{myndir[6]['mynd']}}" alt="Mynd 7"/>
+        <img src="/static/{{myndir[7]['mynd']}}" alt="Mynd 8"/>
     </div>
     <table border="2" class="tafla">
         <tr>
