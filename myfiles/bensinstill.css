@@ -7,7 +7,6 @@ body{
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
 	display: grid;   
 	justify-items:center;
-	background-color: white;
 }
 .mynd2{
     width: 10%;
@@ -47,6 +46,7 @@ td, th {
     border-collapse: collapse;
     border-radius: 10px;
     margin: auto;
+	background-color: white;
 }
 h1{
     text-align: center;
